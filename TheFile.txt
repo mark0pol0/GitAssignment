@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-A
-=======
-ABCF
->>>>>>> ticket_002
+ABCD
